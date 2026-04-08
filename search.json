@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  },
+  {
+    "objectID": "tools/posts/first-toolkit-entry/index.html",
+    "href": "tools/posts/first-toolkit-entry/index.html",
+    "title": "First toolkit entry",
+    "section": "",
+    "text": "Use this section for:\n\ntool reviews\ncode snippets and templates\nsoftware setup notes\nreproducible project resources"
+  },
+  {
+    "objectID": "guidance/posts/understand-AI/index.html",
+    "href": "guidance/posts/understand-AI/index.html",
+    "title": "Key Principle 1: Understand AI",
+    "section": "",
+    "text": "While the jargon associated with AI can be challenging, it’s of key importance to understand what exactly different models and approaches are doing under the covers so that you can be fully aware of the applicability of different models and the in-built assumptions involved.\nUsing a commercial generative AI chatbot to generate a workflow is extremely far removed from using a custom-built machine learning model to identify features in images, yet both are now classed as applications of AI."
+  },
+  {
+    "objectID": "guidance/index.html",
+    "href": "guidance/index.html",
+    "title": "Guidance",
+    "section": "",
+    "text": "Practical guidance, workflows, and project notes for using AI with cultural collections.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n\n\n\n\n\n\n\n\n\n\nKey Principle 1: Understand AI\n\n\n\n\n\n\nkey principle\n\n\nethics\n\n\n\nA key guiding principle: understand what different AI models do.\n\n\n\n\n\nMar 21, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nGetting started with AI guidance\n\n\n\n\n\n\nguidance\n\n\nworkflow\n\n\n\nA starter post for the guidance section.\n\n\n\n\n\nMar 20, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "AI in Cultural Collections",
+    "section": "",
+    "text": "This is a rough draft website, intended to provide a toolkit for researchers working with Cultural Collections in the use of AI.\nThe aim of this web resource is to provide an evolving source of guidance for ethical use of AI in research.\nThe guide is split into two main sections:\n\nGuidance: principles to consider and follow when considering implementing AI into your workflow. The guidance is split between guidelines for individual readers, and for institutions.\nToolkit: practical tools and resources to help you implement the guidance above.\n\nThe current version of the guidance that you’re viewing is: v0.1.0.\nThis website is designed to be easily forked (copied) and modified for your institution."
+  },
+  {
+    "objectID": "guidance/posts/getting-started/index.html",
+    "href": "guidance/posts/getting-started/index.html",
+    "title": "Getting started with AI guidance",
+    "section": "",
+    "text": "Use this section for:\n\nmethodological guidance\nethics and governance notes\nworkflow documentation"
+  },
+  {
+    "objectID": "tools/index.html",
+    "href": "tools/index.html",
+    "title": "Tools",
+    "section": "",
+    "text": "Tool write-ups, implementation notes, and reusable resources for work with cultural collections.\n\n\n\n\n\n\n   \n     \n     \n       Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n\n\n\n\n\n\n\n\nBook Title Here\n\n\n\nbooks\n\n\nethics\n\n\n\nA key text in understanding different AI models\n\n\n\n\n\n\nMar 22, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nFirst toolkit entry\n\n\n\ntools\n\n\nsetup\n\n\n\nA starter post for the tools section.\n\n\n\n\n\n\nMar 20, 2026\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "tools/posts/intro-to-ai-book/index.html",
+    "href": "tools/posts/intro-to-ai-book/index.html",
+    "title": "Book Title Here",
+    "section": "",
+    "text": "Here’s a very brief description of a book, potentially including a link to the library entry."
+  }
+]

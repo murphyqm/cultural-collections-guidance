@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/guidance/index.html",
+    "items": [
+      "/guidance/posts/understand-AI/index.html",
+      "/guidance/posts/getting-started/index.html"
+    ]
+  },
+  {
+    "listing": "/tools/index.html",
+    "items": [
+      "/tools/posts/intro-to-ai-book/index.html",
+      "/tools/posts/first-toolkit-entry/index.html"
+    ]
+  }
+]

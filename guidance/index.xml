@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>AI in Cultural Collections</title>
+<link>https://murphyqm.github.io/cultural-collections-guidance/guidance/</link>
+<atom:link href="https://murphyqm.github.io/cultural-collections-guidance/guidance/index.xml" rel="self" type="application/rss+xml"/>
+<description></description>
+<generator>quarto-1.6.39</generator>
+<lastBuildDate>Sat, 21 Mar 2026 00:00:00 GMT</lastBuildDate>
+<item>
+  <title>Key Principle 1: Understand AI</title>
+  <link>https://murphyqm.github.io/cultural-collections-guidance/guidance/posts/understand-AI/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>While the jargon associated with AI can be challenging, it’s of key importance to understand what exactly different models and approaches are doing under the covers so that you can be fully aware of the applicability of different models and the in-built assumptions involved.</p>
+<p>Using a commercial generative AI chatbot to generate a workflow is extremely far removed from using a custom-built machine learning model to identify features in images, yet both are now classed as applications of AI.</p>
+
+
+
+ ]]></description>
+  <category>key principle</category>
+  <category>ethics</category>
+  <guid>https://murphyqm.github.io/cultural-collections-guidance/guidance/posts/understand-AI/</guid>
+  <pubDate>Sat, 21 Mar 2026 00:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Getting started with AI guidance</title>
+  <link>https://murphyqm.github.io/cultural-collections-guidance/guidance/posts/getting-started/</link>
+  <description><![CDATA[ 
+
+
+
+
+<p>Use this section for:</p>
+<ul>
+<li>methodological guidance</li>
+<li>ethics and governance notes</li>
+<li>workflow documentation</li>
+</ul>
+
+
+
+ ]]></description>
+  <category>guidance</category>
+  <category>workflow</category>
+  <guid>https://murphyqm.github.io/cultural-collections-guidance/guidance/posts/getting-started/</guid>
+  <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
+</item>
+</channel>
+</rss>
