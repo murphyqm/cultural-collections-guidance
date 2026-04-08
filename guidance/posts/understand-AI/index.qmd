@@ -1,0 +1,12 @@
+---
+title: "Key Principle 1: Understand AI"
+date: 2026-03-21
+categories: [key principle, ethics]
+description: "A key guiding principle: understand what different AI models do."
+---
+
+While the jargon associated with AI can be challenging, it's of key importance to understand
+what exactly different models and approaches are doing under the covers so that you can be fully
+aware of the applicability of different models and the in-built assumptions involved.
+
+Using a commercial generative AI chatbot to generate a workflow is extremely far removed from using a custom-built machine learning model to identify features in images, yet both are now classed as applications of AI.

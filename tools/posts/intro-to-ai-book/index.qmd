@@ -1,0 +1,8 @@
+---
+title: "Book Title Here"
+date: 2026-03-22
+categories: [books, ethics]
+description: "A key text in understanding different AI models"
+---
+
+Here's a very brief description of a book, potentially including a link to the library entry.

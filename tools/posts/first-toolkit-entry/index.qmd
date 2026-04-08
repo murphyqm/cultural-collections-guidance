@@ -1,0 +1,13 @@
+---
+title: "First toolkit entry"
+date: 2026-03-20
+categories: [tools, setup]
+description: "A starter post for the tools section."
+---
+
+Use this section for:
+
+- tool reviews
+- code snippets and templates
+- software setup notes
+- reproducible project resources

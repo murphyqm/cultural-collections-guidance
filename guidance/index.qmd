@@ -1,0 +1,13 @@
+---
+title: "Guidance"
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  sort-ui: [title, date]
+  categories: true
+  feed: true
+page-layout: full
+---
+
+Practical guidance, workflows, and project notes for using AI with cultural collections.

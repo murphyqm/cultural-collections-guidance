@@ -1,0 +1,13 @@
+---
+title: "Tools"
+listing:
+  contents: posts
+  type: grid
+  sort: "date desc"
+  sort-ui: [title, date]
+  categories: true
+  feed: true
+page-layout: full
+---
+
+Tool write-ups, implementation notes, and reusable resources for work with cultural collections.

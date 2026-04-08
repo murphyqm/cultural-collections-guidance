@@ -1,0 +1,16 @@
+---
+title: "AI in Cultural Collections"
+---
+
+This is a rough draft website, intended to provide a toolkit for researchers working with Cultural Collections in the use of AI.
+
+The aim of this web resource is to provide an evolving source of guidance for ethical use of AI in research.
+
+The guide is split into two main sections:
+
+- [Guidance](guidance/index.qmd): principles to consider and follow when considering implementing AI into your workflow. The guidance is split between guidelines for individual readers, and for institutions.
+- [Toolkit](tools/index.qmd): practical tools and resources to help you implement the guidance above.
+
+The current version of the guidance that you're viewing is: **v0.1.0**.
+
+This website is designed to be easily *forked* (copied) and modified for your institution.
