@@ -12,6 +12,8 @@ website:
         text: Guidance
       - href: tools/index.qmd
         text: Toolkit
+      - href: casestudies/index.qmd
+        text: Case Studies
       - about.qmd
 
 format:

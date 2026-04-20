@@ -1,0 +1,12 @@
+---
+title: "Getting started with AI guidance"
+date: 2026-03-20
+categories: [guidance, workflow]
+description: "A starter post for the guidance section."
+---
+
+Use this section for:
+
+- methodological guidance
+- ethics and governance notes
+- workflow documentation

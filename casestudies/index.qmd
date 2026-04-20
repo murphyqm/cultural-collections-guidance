@@ -1,0 +1,13 @@
+---
+title: "Case Studies"
+listing:
+  contents: posts
+  type: default
+  sort: "date desc"
+  sort-ui: [title, date]
+  categories: true
+  feed: true
+page-layout: full
+---
+
+Example case studies of applications of Ai in cultural collections.

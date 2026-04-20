@@ -1,0 +1,38 @@
+---
+title: "I want to understand AI and ethics"
+page-layout: full
+listing:
+  - id: understand-guidance
+    contents: guidance/posts
+    type: default
+    include:
+      categories: "*ethics*"
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: false
+  - id: understand-tools
+    contents: tools/posts
+    type: grid
+    include:
+      categories: "*ethics*"
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: false
+    grid-columns: 2
+---
+
+::: {.story-hero}
+This pathway highlights content tagged around **ethics**, **key principles**, and further reading so you can build a stronger understanding of AI before applying it.
+:::
+
+## Core guidance
+
+:::{#understand-guidance}
+:::
+
+## Further reading and resources
+
+:::{#understand-tools}
+:::
+
+[Back to the homepage](index.qmd)

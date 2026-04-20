@@ -1,0 +1,52 @@
+---
+title: "I want practical tools and resources"
+page-layout: full
+listing:
+  - id: practical-tools
+    contents: tools/posts
+    type: grid
+    include:
+      categories: "*setup*"
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: false
+    grid-columns: 2
+  - id: practical-reading
+    contents: tools/posts
+    type: grid
+    include:
+      categories: "*books*"
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: false
+    grid-columns: 2
+  - id: practical-guidance
+    contents: guidance/posts
+    type: default
+    include:
+      categories: "*workflow*"
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: false
+---
+
+::: {.story-hero}
+This pathway gathers practical content tagged for **setup**, **books**, and **workflow** so you can move quickly from planning into implementation.
+:::
+
+## Tools and setup notes
+
+:::{#practical-tools}
+:::
+
+## Recommended reading
+
+:::{#practical-reading}
+:::
+
+## Workflow guidance to support implementation
+
+:::{#practical-guidance}
+:::
+
+[Back to the homepage](index.qmd)

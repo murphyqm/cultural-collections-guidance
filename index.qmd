@@ -1,16 +1,43 @@
 ---
 title: "AI in Cultural Collections"
+page-layout: full
 ---
 
 This is a rough draft website, intended to provide a toolkit for researchers working with Cultural Collections in the use of AI.
 
 The aim of this web resource is to provide an evolving source of guidance for ethical use of AI in research.
 
-The guide is split into two main sections:
+The guide is split into three main sections:
 
 - [Guidance](guidance/index.qmd): principles to consider and follow when considering implementing AI into your workflow. The guidance is split between guidelines for individual readers, and for institutions.
 - [Toolkit](tools/index.qmd): practical tools and resources to help you implement the guidance above.
+- [Case studies](casestudies/index.qmd): worked examples from other institutions.
 
 The current version of the guidance that you're viewing is: **v0.1.0**.
 
 This website is designed to be easily *forked* (copied) and modified for your institution.
+
+## Start with a goal
+
+To see how you mind utilise this database of knowledge, try browsing some of the collections below.
+
+::: {.home-user-story-grid}
+<a class="user-story-card" href="get-started.qmd">
+    <span>As a student researching sensitive topics,</span>
+	<strong>I want to be aware of difficult or contested language in meta data</strong>
+	<span>so that I can prepare for the experience of engaging with it as it arises in both human-curated and AI generated meta data.</span>
+</a>
+
+<a class="user-story-card" href="understand-ai.qmd">
+    <span>As a archivist with little technical experience,</span>
+	<strong>I want to be able to geocode and map data extracted from text</strong>
+	<span>so that users can discover and explore items by location</span>
+</a>
+
+<a class="user-story-card" href="practical-resources.qmd">
+    <span>As a creative practitioner,</span>
+	<strong>I want to know what I can do with library collections in terms of IP and ethical propriety</strong>
+	<span>so that I can use collections in conjunction with Gen AI to create new works.</span>
+</a>
+:::
+

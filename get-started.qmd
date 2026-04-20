@@ -1,0 +1,51 @@
+---
+title: "I want to get started with AI"
+page-layout: full
+listing:
+  - id: getting-started-guidance
+    contents: guidance/posts
+    type: default
+    include:
+      categories: "*workflow*"
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: false
+  - id: getting-started-tools
+    contents: tools/posts
+    type: grid
+    include:
+      categories: "*setup*"
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: false
+    grid-columns: 2
+  - id: getting-started-casestudies
+    contents: casestudies/posts
+    type: default
+    include:
+      categories: "*workflow*"
+    sort: "date desc"
+    sort-ui: false
+    filter-ui: false
+---
+
+::: {.story-hero}
+This pathway brings together content tagged for **workflow**, **guidance**, and **setup** so a new reader can move from principles to practice.
+:::
+
+## Guidance to read first
+
+:::{#getting-started-guidance}
+:::
+
+## Tools to help you begin
+
+:::{#getting-started-tools}
+:::
+
+## Case studies to compare against
+
+:::{#getting-started-casestudies}
+:::
+
+[Back to the homepage](index.qmd)
