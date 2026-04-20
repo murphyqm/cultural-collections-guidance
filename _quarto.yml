@@ -11,7 +11,7 @@ website:
       - href: guidance/index.qmd
         text: Guidance
       - href: tools/index.qmd
-        text: Tools
+        text: Toolkit
       - about.qmd
 
 format:
